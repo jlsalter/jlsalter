@@ -6,7 +6,6 @@ I'm an M.S. Statistics student at the **University of Southern California** (B.S
 - Statistical modeling and inference
 - Simulation and decision analysis
 - Forecasting and time series
-- End-to-end pipelines someone else can rerun
 
 **Tools:** Python · R · SQL · Git · Jupyter
 
