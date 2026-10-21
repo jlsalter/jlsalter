@@ -1,16 +1,18 @@
-### Hi, I'm Jordan 
+### Jordan Salter
 
-I'm an M.S. Statistics student at the **University of Southern California** (B.S. Mathematics, Pepperdine), focused on statistical modeling, simulation, and data-driven decision-making. Sports analytics is a favorite application of mine, and I apply the same methods to problems in any field.
+M.S. Statistics candidate at the **University of Southern California** · B.S. Mathematics, Pepperdine University
 
-**What I work on**
+I use statistical modeling, simulation, and forecasting to answer practical questions with data. Much of my recent work is in sports analytics, and the same methods carry over to any field where decisions depend on uncertain data.
+
+**Areas of focus**
 - Statistical modeling and inference
-- Simulation and decision analysis
-- Forecasting and time series
+- Monte Carlo simulation and decision analysis
+- Forecasting and time series analysis
 
 **Tools:** Python · R · SQL · Git · Jupyter
 
 **Featured project**
 
-📊 **[The ABS Effect](https://github.com/jlsalter/abs-challenge-analysis).** How MLB's new automated ball-strike challenge system changed umpires' behavior, and when a challenge is worth making. 1.4M pitches; the called zone shrank 35 sq in (95% CI 29–40); better decisions would add ~1.5 wins per team per season.
+**[The ABS Effect](https://github.com/jlsalter/abs-challenge-analysis):** An analysis of MLB's 2026 automated ball-strike challenge system using 1.4 million Statcast pitches. It measures how umpires adapted (the called strike zone shrank by 35 square inches, 95% CI: 29–40) and models when a challenge is worth making, estimating that better decisions would add about 1.5 wins per team per season.
 
-📫 [LinkedIn](https://www.linkedin.com/in/jordan-salter) · jordanlsalter@gmail.com
+**Contact:** [LinkedIn](https://www.linkedin.com/in/jordan-salter) · jordanlsalter@gmail.com
