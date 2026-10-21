@@ -1,4 +1,4 @@
-### Hi, I'm Jordan 👋
+### Hi, I'm Jordan 
 
 I'm an M.S. Statistics student at the **University of Southern California** (B.S. Mathematics, Pepperdine), focused on statistical modeling, simulation, and data-driven decision-making. Sports analytics is a favorite application of mine, and I apply the same methods to problems in any field.
 
